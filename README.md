@@ -1,7 +1,7 @@
 # Airbnb Listing Analysis for Large Family Holiday Stay
 
 ## Deskripsi Project
-Project ini bertujuan untuk menganalisis data Airbnb dan memberikan rekomendasi penginapan yang paling sesuai untuk **keluarga besar (> 5 orang)** selama **liburan Natal**. Analisis difokuskan pada kesesuaian penginapan untuk :
+Project ini bertujuan untuk menganalisis data Airbnb dan memberikan rekomendasi penginapan yang paling sesuai untuk **keluarga besar (> 5 orang)** selama **liburan**. Analisis difokuskan pada kesesuaian penginapan untuk :
 - keluarga
 - efisiensi harga
 - tingkat popularitas penginapan
