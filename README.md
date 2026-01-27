@@ -91,7 +91,7 @@ Analisis dilakukan untuk:
 Berdasarkan hasil analisis, wilayah Queens, Staten Island, dan Brooklyn lebih optimal untuk keluarga besar karena menawarkan kecocokan penginapan yang lebih baik dengan harga yang lebih efisien. Hasil ini dapat digunakan sebagai dasar rekomendasi bagi keluarga besar maupun sebagai insight bagi pemilik penginapan.
 
 ---
-## Assumptions (Asumsi Analisis)
+## Asumsi Analisis
 Analisis dibuat dengan beberapa asumsi utama sebagai berikut:
 - Jumlah dan frekuensi review digunakan sebagai **proxy untuk tingkat permintaan (demand)** karena tidak tersedia data booking dan ketersediaan penginapan
 - Harga per orang digunakan sebagai **proxy efisiensi harga**, dengan asumsi bahwa biaya per individu lebih relevan untuk keluarga besar dibandingkan harga total penginapan
@@ -99,7 +99,7 @@ Analisis dibuat dengan beberapa asumsi utama sebagai berikut:
 
 ---
 
-## Limitations (Keterbatasan Analisis)
+## Keterbatasan Analisis
 Beberapa keterbatasan dalam project ini antara lain:
 - Dataset tidak menyediakan data aktual mengenai **booking, occupancy rate, dan availability**, sehingga analisis tidak dapat memastikan penginapan benar-benar tersedia saat special occasion tertentu, misal : Liburan Natal
 - Review digunakan sebagai proxy demand, namun jumlah review tidak selalu merepresentasikan kondisi permintaan terkini
@@ -109,7 +109,7 @@ Beberapa keterbatasan dalam project ini antara lain:
 
 ---
 
-## Recommendations (Rekomendasi)
+## Rekomendasi
 Berdasarkan hasil analisis, rekomendasi yang dapat diberikan adalah:
 - Keluarga besar yang merencanakan liburan disarankan untuk mempertimbangkan wilayah dengan **efisiensi harga tinggi dan kesesuaian keluarga yang baik**, seperti wilayah dengan final score tinggi : Brooklyn, Queens, Staten Island
 - Pemilik penginapan dapat meningkatkan daya tarik dengan menambahkan fasilitas yang relevan untuk keluarga besar, seperti dapur, mesin cuci, dan jumlah kamar yang memadai
